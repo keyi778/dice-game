@@ -3,7 +3,16 @@
     <user-bar />
     <menu-item-text class="page-title" icon-src="../../images/menu-dices/about-dice.svg" btn-color="#FFFFFF">关于</menu-item-text>
     <text class="rule-text">
-      暂无
+      开发工具：微信开发者工具
+    </text>
+    <text class="rule-text">
+      原型设计：figma
+    </text>
+    <text class="rule-text">
+      图标素材：figma community、iconfont
+    </text>
+    <text class="rule-text">
+      开发者：福州大学计算机软工k班underdog
     </text>
     <view class="flex-fill" />
     <view class="navigator-area">
